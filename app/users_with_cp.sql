@@ -1,0 +1,17 @@
+INSERT INTO users (id, zip_code) VALUES (1624, '04230');
+INSERT INTO users (id, zip_code) VALUES (461, '02170');
+INSERT INTO users (id, zip_code) VALUES (25667, '64400');
+INSERT INTO users (id, zip_code) VALUES (26057, '65120');
+INSERT INTO users (id, zip_code) VALUES (25932, '64260');
+INSERT INTO users (id, zip_code) VALUES (202, '01360');
+INSERT INTO users (id, zip_code) VALUES (2433, '08090');
+INSERT INTO users (id, zip_code) VALUES (1214, '02630');
+INSERT INTO users (id, zip_code) VALUES (2730, '08430');
+INSERT INTO users (id, zip_code) VALUES (25625, '64870');
+INSERT INTO users (id, zip_code) VALUES (26540, '66800');
+INSERT INTO users (id, zip_code) VALUES (2368, '07410');
+INSERT INTO users (id, zip_code) VALUES (2792, '08230');
+INSERT INTO users (id, zip_code) VALUES (23861, '61270');
+INSERT INTO users (id, zip_code) VALUES (26699, '67140');
+INSERT INTO users (id, zip_code) VALUES (27627, '69290');
+INSERT INTO users (id, zip_code) VALUES (23143, '60660');
